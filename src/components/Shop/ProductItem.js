@@ -17,6 +17,8 @@ const ProductItem = (props) => {
         price,
       })
     );
+
+    fetch();
   };
 
   return (
